@@ -1,0 +1,60 @@
+
+h2{
+    color:red;
+    border:inset;
+    border-width: 10px;
+    border-color: rgb(0, 162, 255);
+    font-variant: small-caps;
+    text-shadow: 2px 3px 1px white;
+    font-family: 'Indie Flower', cursive;
+}
+
+.header{
+    border: inset;
+    background-color: rgb(176, 255, 145);
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+h1 {
+    text-shadow: 3px;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 5px  5px  white;
+    font-size:600%;
+}
+
+.menu{
+    border: inset;
+    background-color: rgb(187, 255, 184);
+}
+     
+.grid{
+    display : flex;
+    flex-wrap : wrap;
+    justify-self : center;
+
+}
+
+.item{
+    border:double;
+}
+
+.footer{
+   display:flex;
+   justify-content:flex-end;
+
+}
+
+p,h2{
+    text-align: center;
+    font-size: 200%;
+}
+
+body {
+    background-color: #ffff00;
+}
+
+
+
+
